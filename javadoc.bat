@@ -1,0 +1,1 @@
+"C:\Program Files\Java\jdk-17.0.2\bin\javadoc" -public -d "c:\Users\sergi\Documents\DAW\POO\helper\javadoc" --module com.institutmvm.controller,cat.institutmvm.application --module-source-path "c:\Users\sergi\Documents\DAW\POO\helper\*\src"
